@@ -1,7 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../project_1.srcs/sources_1/new/AD4030_MODE_CMD.vhd" \
-"../../../../project_1.srcs/sim_1/new/AD4030_MODE_CMD_tb.vhd" \
-
-# Do not sort compile order
-nosort
