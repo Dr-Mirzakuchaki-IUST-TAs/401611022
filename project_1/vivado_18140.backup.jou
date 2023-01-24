@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 24 20:13:42 2023
+# Process ID: 18140
+# Current directory: C:/Users/yas_s/OneDrive/Desktop/VHDL/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13956 C:\Users\yas_s\OneDrive\Desktop\VHDL\project_1\project_1.xpr
+# Log file: C:/Users/yas_s/OneDrive/Desktop/VHDL/project_1/vivado.log
+# Journal file: C:/Users/yas_s/OneDrive/Desktop/VHDL/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yas_s/OneDrive/Desktop/VHDL/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/yas_s/OneDrive/Desktop/VHDL/project_1/AD4030_FSM_tb_behav.wcfg
+source AD4030_FSM_tb.tcl
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+close_sim

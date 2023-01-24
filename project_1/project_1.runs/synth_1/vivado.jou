@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 24 22:14:09 2023
+# Process ID: 16564
+# Current directory: C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log AD4030_FSM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AD4030_FSM.tcl
+# Log file: C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.runs/synth_1/AD4030_FSM.vds
+# Journal file: C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source AD4030_FSM.tcl -notrace
