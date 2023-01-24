@@ -1,0 +1,277 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jan 24 16:06:33 2023
+# Process ID: 4604
+# Current directory: C:/Users/yas_s/OneDrive/Desktop/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13884 C:\Users\yas_s\OneDrive\Desktop\project_1\project_1.xpr
+# Log file: C:/Users/yas_s/OneDrive/Desktop/project_1/vivado.log
+# Journal file: C:/Users/yas_s/OneDrive/Desktop/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source AD4030_FSM_tb.tcl
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+relaunch_sim
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+relaunch_sim
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+add_bp {C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.srcs/sim_1/new/AD4030_FSM_tb.vhd} 80
+restart
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+step
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+relaunch_sim
+remove_bps -file {C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.srcs/sim_1/new/AD4030_FSM_tb.vhd} -line 80
+add_bp {C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.srcs/sim_1/new/AD4030_FSM_tb.vhd} 80
+remove_bps -file {C:/Users/yas_s/OneDrive/Desktop/project_1/project_1.srcs/sim_1/new/AD4030_FSM_tb.vhd} -line 80
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+relaunch_sim
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+relaunch_sim
+relaunch_sim
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+save_wave_config {C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg}
+add_files -fileset sim_1 -norecurse C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg
+set_property xsim.view C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg [get_filesets sim_1]
+create_wave_config
+close_sim
+launch_simulation
+open_wave_config C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg
+source AD4030_FSM_tb.tcl
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+close_sim
+launch_simulation
+open_wave_config C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg
+source AD4030_FSM_tb.tcl
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+run 1000 ns
+save_wave_config {C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg}
+relaunch_sim
+close_sim
+launch_simulation
+open_wave_config C:/Users/yas_s/OneDrive/Desktop/project_1/AD4030_FSM_tb_behav.wcfg
+source AD4030_FSM_tb.tcl
+close_sim
